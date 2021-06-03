@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A form of thanksgiving for the great mercy that God hath bestowed upon these three nations of England, Scotland and Ireland by the hand of the Lord General Monck and the two houses of Parliament, in restoring the King unto his right and government; and in the opening a doore thereby to establishment, of the true religion, and to the settlement of these distracted and oppressed nations in peace and righteousnesse, by the proclamation of King Charles the II. May this 8. 1660..</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23074</idno><idno type="EEBO-CITATION">99889150</idno>
+  <idno type="VID">194058</idno>
+  <idno type="EEBO-PROQUEST">2240901955</idno>
+  
+            <idno type="STC">Wing F1572A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[255]</idno>
+            <idno type="STC">ESTC R233139</idno>
+            <idno type="PROQUEST">ocm99889150</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889150e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194058)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[256])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A form of thanksgiving for the great mercy that God hath bestowed upon these three nations of England, Scotland and Ireland by the hand of the Lord General Monck and the two houses of Parliament, in restoring the King unto his right and government; and in the opening a doore thereby to establishment, of the true religion, and to the settlement of these distracted and oppressed nations in peace and righteousnesse, by the proclamation of King Charles the II. May this 8. 1660..</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Mabb, for William Shears at the blue Bible in Bedford Street,,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Prayers --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:194058:1"/>
+            <head>A Form of Thanksgiving for the great Mer<g ref="char:EOLhyphen"/>cy <hi>that GOD hath bestowed upon these three Nations of</hi> England, Scotland <hi>and</hi> Ireland <hi>by the Hand of the Lord General</hi> MONCK <hi>and the Two Houses of Parliament, in Restoring the King unto his Right and Government; and in the opening a Doore thereby to Establishment, of the true Religion, and to the Settlement of these Distracted and Oppressed Nations in Peace and Righteousnesse, by the Proclamation of KING</hi> CHARLES <hi>the</hi> 11. May <hi>this</hi> 8▪ 1660.</head>
+            <p>
+               <seg rend="decorInit">O</seg>H Most Glorious, most Mighty, most Mercifull and Gracious Lord God, who art wonderfull in Councel, and Excellent in work<g ref="char:EOLhyphen"/>ing: We thy poore unworthy Creatures, desire in all humility of Soule to fall down before thee, in the Acknowledgement and Admiration of thy Greatness and thy Goodness, which thou hast so gloriously manifested unto thy People in the great and mar<g ref="char:EOLhyphen"/>vellous things thou hast done for these poore Distressed, and Oppressed Nations. Oh what great trouble and adversity hast thou shewed us; and yet didst thou turn and refresh us, and hast brought us up from the deep of the Earth again. Oh Lord God, we have been, and are still a wicked and Rebellious People against thee; and by the greatness of our sins we provoked thee to give us up to the greatness of our miseries: And yet now O God, to our shame be it spoken, and to the honour of thy Mercy, before we have returned from our sins unto thee, thou hast returned unto pitty and compassion toward us. And the swelling bowels of thy heavenly Goodness which travailed with Mercy toward thy wretched people, have broken forth in a floud and deluge of thy divine Blessing upon us, and hath overwhelmed both our sins and miseries, with thy loving kindnesses; not only to the redresse of our Calamities, but to the amazing of our souls.</p>
+            <p>Oh Lord! Thy great tenderness towards us, hath contended with our great stubbornness against thee; as if thou hadst said unto us, yee are a people that have no mercy on your selves; but I will be mercifull unto you: you are bent desperately upon the procurement of your own ruine and destructi<g ref="char:EOLhyphen"/>on; but you shall not prevaile. I will make you happy whether you will or no: you have stood out against my Judgments; but yet I will overcome you with the power of my Goodness, and loving kindnesses toward you. We have done miracles of monstrous wickednesses against thee; and thou madest those very monsters of our sins, to bring forth the wonders of thy judgements upon us: And although we have not relented toward thee, but have been as monstrous in our lewdnes, as we were in our wickednes; yet thou hast now changed the tenour of thy providence, and hast made us a work<g ref="char:EOLhyphen"/>house of the wonders of thy mercies. So that thou mayst send us to ask of the days that are past which were before us, since the day that God created man upon the earth; and to ask from the one side of the heaven to the other, whether there hath been any such thing as this great thing is, or hath been heard <note place="margin">Deut. 4. 30.</note> like it. Did ever people see the Arm of God stretched out from heaven, as we have seen, in those things that thou hast done, and art still doing for us. Or hath God assayed to go and take an afflicted Prince and his Family out of the depth of affliction and misery, and out of the midst of a strange Nation, and to advance him unto the height of Excellency and Glory? Did ever God make such a sudden turn in the tyde and current of hearts? Did ever God make the enemies of the peace and happinesse of a distressed Prince and Nation, that were in possession of the Throne and Government, and that had the Sword in their hands, and rage in their hearts, so strongly engaged in Interest, and so disciplined and accustomed to activity and industry, so to de<g ref="char:EOLhyphen"/>stroy and pull down themselves, so to vanish away like smoak before the wind, so to melt away like wax before the fire, with the price of so little blood? Did ever God so wonderfully shake in pieces an oppressing Power? Did ever God carry a work of so great and publick a mercy, under such a cloud of Secrecy and safety, to bring it unto such an issue of Mercy and Deliverance, in so mercifull away? Did ever the Lord lead a man whom he had fetcht back from other enterprizes, through such a maze of difficulties, through such a multitude of rocks and shelves, in such a stormy season, and in such a broken Vessel, in such a direct and even course, without any faltering or aberration, or set such an exact frame of providence in the carrying on of awork so great and hazardous in his hands, so as to make every operation, and every motion to fall out in its proper place, and its right season? Did ever God make men work so above their own thoughts or imaginations, or so scrue and contrive a people into their own felicity, ere they were a ware? Or did the Lord ever do such a work of mercy so speedily, so secretly, so graciously, for a people so drowned in misery and sin, and yet much more in sin than misery? Oh our God! what answer can be given unto these things, other than of a silent astonishment of spirit? whilest we cannot yet tell at which we should most wonder, that thou shouldest be so strangely mercifull unto so sinfull and so miserable a people; or that we should yet be so sinfull towards so good, and so glorious, towards so powerfull and so gracious a God.</p>
+            <p>Oh Blessed God, when we Consider what we have done, and what we have lately been, what we have done against thee, and what thou hast done for us, and how thou hast pursued us with thy mercies, when we have run away from thee by Our sins.</p>
+            <p>When we Consider what we lately were, and how it was both with Prince and people, both with Church and State, and what we now are already, and what thou art now about to make Us to be. What can we say or do unto the Lord our God! Must we not needs be like them that dream! or as if we saw a Vision! for is it possible it should be so with such a people? and that so soon, and that such a malady should be so suddenly healed by such Gentle means?</p>
+            <p>That the Sea should fly, and <hi>Jordan</hi> be driven back? that mountains should skip like Rams, and little hills like young sheep? That so many and so great difficulties that stood like seas and rivers, and invincible mountains that stood between us and this blessed change, should all vanish and fade away in a moment? But now in <hi>Egypt,</hi> and presently in <hi>Canaan!</hi> But now an Exile, and presently upon a Throne! But now a Contemned Cast-away trampled upon at home, and miserable abroad, and presently the most admired and Glorious Prince in the world; raigning in the hearts of his people, before they see him with their eyes; and a King of love as well as of honour! But now dry bones lying scattered in the valley; And pre<g ref="char:EOLhyphen"/>sently shaken together and joyned together by the ligaments of Unity, and overlaid with sinews of strength, and covered with skin and flesh of beau<g ref="char:EOLhyphen"/>ty <note place="margin">Ezek. 37. 1, &amp;c.</note> and security: and now upon the sudden, the breath also breathed into them, and by the Embracing, and so joyful acknowledgement of him who is the breath of our nostrils, the means under God to give life unto this Nation! O Lord our God, other Lords besides thee have had dominion over us: In trouble have we visited thee, we poured out a prayer when thy chastening was upon us; like as a woman with child that draweth neer the time <note place="margin">Is<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪ 26. 13, &amp;c. 16, &amp;c.</note> of her delivery is in pain and crieth out in her pangs: So have we been in thy sight O Lord we have been with childe, we have been in pain, we have as it were brought forth winde: The Case was with Us, as once with thy people of <hi>Israel:</hi> The children were Come to the birth, and there was not strength to bring forth: A people ready to dy and give up the Ghost in the throws and plunges of our Sorrows and distresses, and of our vain attempts for ob<g ref="char:EOLhyphen"/>taining <note place="margin">2 <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in. 19. 3.</note> of deliverance, Discouraged and lost by the several disappointments of our hopes and Expectations: Our eyes as yet failed for our vain help, in our watching we watched, for a people that could not save us. We looked for peace, and no good came; for a time of health, and behold trouble; <note place="margin">L<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 4. 17.</note> we waited for light, but behold obscurity; for brightness, but we walk in darkness; we looked for judgement, but there was none; for salvation <note place="margin">Jer. 8. 15. Isa. 59. 9, 11. Ezek. 37. 11. Deu. 32. 36</note> but is was far off from Us. We were O Lord, as a people dead, and in the grave, whose hope was lost and cut off. But Thou art the Lord that judgest thy people, and repentest thy self concerning thy Servants, when thou seest that their power is gone, and that there is none shut up or left. Thou hast O Lord of thy great mercy given a Comfortable issue unto the sore and hard labour and travail of thy people. Thou hast wrought a wonder<g ref="char:EOLhyphen"/>full deliverance for us. Thine own arm hath brought Salvation unto us. O Lord, thou art become exceeding glorious: Thou hast magnified thy power, and glorified thy mercy: Thou hast scattered the cloud of thy wrath and indignation, by the Victorious beams of thy Mercy and Compassion: Thou hast raised up instruments of Blessing, and hast by them brought to pass the wonders of thy goodnesse for us: Thou hast out-done hopes and our expectations, O Lord: Strong is thy hand, and high is thy right hand: Thou hast scattered thine Enemies with a mighty arm. Thou hast provided a deliverer for us, and hast guided him by thine own wisdom, and hast Carried him on by thine own power, and hast kept him safe under the shadow of thy wings. Thou hast restored our Judges as at the first, and our Counsellors as at the beginning, that Sion may <note place="margin">Isa 1. 26.</note> be redeemed with judgement, and her Converts with righteousness. Thou hast made mercy and truth to meet together, and righteousnesse and peace to kisse each other: Thou hast caused truth to spring out of the earth, and righteousness hath looked down from heaven. Thou hast main<g ref="char:EOLhyphen"/>tained the Cause of thine Anoynted: Thou hast given great deliverance unto our King, and to his afflicted Family, and to his distressed people: and in the thing wherein thine Enemies dealt proudly, thou wert above them. Thou hast said unto the fools, deal not so madly, and to the ungod<g ref="char:EOLhyphen"/>ly, <note place="margin">Isa. 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 50. Exod. 18. 11. Psalm 75. 4, &amp;c. 1 Sam. 2. 1, &amp;c.</note> lift not up your horn. Lift not up your horn on high, and speak not with a stiff neck, for promotion cometh neither from the East, nor from the West, nor from the South: But God is the Judge, he setteth up one, and pulleth down another. Our heart rejoyceth in the Lord: our horn is exalted in the Lord: our mouths are enlarged over our enemies, because we rejoyce in thy Salvation.</p>
+            <p>There is none holy as the Lord; for there is none beside thee, neither is there any rock like our God.</p>
+            <p>Talk no more so exceeding proudly, let not arrogancy come out of your mouth, for the Lord is a God of knowledge, and by him actions are weigh<g ref="char:EOLhyphen"/>ed. The bows of the mighty men are broken, and they that stumbled, are girt with strength. For thou shalt save the people that are in adversity, and bring down the high looks of the proud. Thou hast also lighted our Candle: The Lord our God hath made our darknesse to be light. When the ene<g ref="char:EOLhyphen"/>my <note place="margin">Psam 18. 27, 28.</note> came in like a flood, the spirit of the Lord hath lifted up a standard against him. Thy right hand, O Lord, is become glorious in power; thy right<g ref="char:EOLhyphen"/>hand, O Lord, hath dashed in pieces the Enemy. And in the greatnesse of thine excellency, thou hast overthrown them that rose up against thee. The <note place="margin">Isa. 59. 19. Exod. 15. 6, &amp;c.</note> Enemy said, I will pursue, <hi>I</hi> will over take, I will divide the spoile: My lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them. Thou didst blow with thy wind, and they are scattered and gone: And thou blastedst them with the breath of thy displeasure. Who is like un<g ref="char:EOLhyphen"/>to thee, O Lord, amongst the Gods? who is like thee, glorious in holinesse, fearful in praises, doing wonders. The Lord is known by the judgement which he executeth: the wicked is snared in the work of his own hands. So let all thine enemies perish O Lord, But let them that love thee, <note place="margin">Psal. 9. 16.</note> be as the Sun when he goeth forth in his might, and let them flourish as the Cedar in <hi>Lebanon.</hi> Oh Lord we praise thee; O Lord we bless thee; O Lord we adore thee and admire thee in the wonders of thy mercy. Oh Lord, we confess we are lesse then the least of all the loving▪kindnesses, thou hast shewed unto us. Oh Lord sanctifie them unto us, that they may be humbling mercies, and convincing mercies, and heart-engaging mercies: help us to walk worthy of thy great goodnesse: let us never forget the loving kindness of the Lord. Help us to entertain thy great love that thou hast shewed unto us, with great love unto thee in our souls: with sobriety of mind and all thankfulnes of heart. And Blesse all those that have been instru<g ref="char:EOLhyphen"/>ments of thy mercy: The two Houses of Parliament, The General and his Armies: Glorifie thy self in all thy goodnesse upon them, and upon thy people by them: help them to perfect that Glorious work that thou hast put into their hands: That they may be yet more and more the repairers of our breaches, and the restorers of the ruines of many generations.</p>
+            <p>Bring home our Gracious Soveraign Speedily and Comfortably, and establish his Throne in peace and righteousness. Let his enemies be cloathed with shame, but upon himself let his Crown flourish: Shine forth more and more in truth and mercy upon these Nations: forgive and reform our sins; make up our breaches, heal our miseries; make us a holy people unto thee, that we may be happy in thee, through Jesus Christ, our Lord, <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> T. Mabb, <hi>for</hi> William Shears <hi>at the blue</hi> Bible <hi>in</hi> Bedford▪<hi>street,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
